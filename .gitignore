@@ -6,8 +6,9 @@
 ## Vscode ##
 .vscode/
 
-# folders
+# folders/ files
 
+*.mp4
 complete_dataset_example_fromsite/
 
 ### JupyterNotebooks ###
