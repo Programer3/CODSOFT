@@ -1,2 +1,4 @@
 pip install -r requirements.txt
 Using custom venv enviroment and it is the Kernel source.
+
+Explaination and learning from : <https://www.kaggle.com/code/kenjee/titanic-project-example>

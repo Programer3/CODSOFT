@@ -6,6 +6,10 @@
 ## Vscode ##
 .vscode/
 
+# folders
+
+complete_dataset_example_fromsite/
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
