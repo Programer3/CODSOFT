@@ -8,6 +8,8 @@
 
 # folders/ files
 
+datascience/
+creditcard.csv
 *.mp4
 complete_dataset_example_fromsite/
 

@@ -1,0 +1,7 @@
+run setup_env.sh file : this assumes you are on windows and using vscode to work with notebooks.
+
+if running this shell script vanilla then you can name your virtual enviroment as you wish & you can remove or add libraries according to your need in requirements.txt file.
+
+Here using custom venv (datascience) enviroment and it is the Kernel source.
+
+Explaination Titanic project and learning from : <https://www.kaggle.com/code/kenjee/titanic-project-example>

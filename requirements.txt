@@ -4,3 +4,7 @@ matplotlib
 scikit-learn
 seaborn
 xgboost
+plotly
+nbformat
+lightgbm
+imblearn
